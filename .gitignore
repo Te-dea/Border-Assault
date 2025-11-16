@@ -1,0 +1,25 @@
+# Unity Generated Files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio/Monodevelop Files
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.cache
+*.ilk
+
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
