@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7128619E-4881-9911-AA93-85B601563E61}</ProjectGuid>
+    <ProjectGuid>{C24AD601-093F-BBD0-6304-A19ADC0F313B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,23 +62,16 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Data\Room.cs" />
     <Compile Include="Assets\Player\PlayerInputActions.cs" />
-    <Compile Include="Assets\Hero Knight - Pixel Art\Demo\DestroyEvent_HeroKnight.cs" />
-    <Compile Include="Assets\Hero Knight - Pixel Art\Demo\Sensor_HeroKnight.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyProjectile.cs" />
     <Compile Include="Assets\Scripts\Data\WeaponData.cs" />
-    <Compile Include="Assets\Enemy Galore 1 - Pixel Art\Script\EnemyTest.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovent.cs" />
-    <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy\PatrolOnlyEnemy.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerAnimator.cs" />
-    <Compile Include="Assets\Hero Knight - Pixel Art\ColorSwap\ColorSwap_HeroKnight.cs" />
-    <Compile Include="Assets\Hero Knight - Pixel Art\Demo\HeroKnight.cs" />
     <Compile Include="Assets\Scripts\System\LevelGenerator.cs" />
-    <Compile Include="Assets\Enemy Galore 1 - Pixel Art\Script\EnemySelector.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyBase.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerInputHandler.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Enemy Galore 1 - Pixel Art\Read Me.txt" />
-    <None Include="Assets\Hero Knight - Pixel Art\ColorSwap\Sprites-ColorSwap.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
