@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\unity\\Project\\Border-Assault\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\enemy\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\player\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,16 +27,32 @@
       "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|d:\\unity\\project\\border-assault\\assets\\scripts\\enemy\\stationaryrangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\stationaryrangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\enemy\\patrolandchaseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\patrolandchaseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\data\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\enemy\\patrolonlyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\patrolonlyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|d:\\unity\\project\\border-assault\\assets\\scripts\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|d:\\unity\\project\\border-assault\\assets\\scripts\\enemy\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|D:\\unity\\Project\\Border-Assault\\assets\\scripts\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24AD601-093F-BBD0-6304-A19ADC0F313B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,6 +64,32 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StationaryRangedEnemy.cs",
+              "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\StationaryRangedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\StationaryRangedEnemy.cs",
+              "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\StationaryRangedEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\StationaryRangedEnemy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:52:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatrolAndChaseEnemy.cs",
+              "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\PatrolAndChaseEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\PatrolAndChaseEnemy.cs",
+              "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\PatrolAndChaseEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\PatrolAndChaseEnemy.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:49:58.896Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Data\\Room.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Room.cs",
@@ -84,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LevelGenerator.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\System\\LevelGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\System\\LevelGenerator.cs",
@@ -97,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PlayerMovent.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Player\\PlayerMovent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovent.cs",
@@ -110,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlayerInputHandler.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
@@ -123,78 +157,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Player\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
               "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Player\\PlayerAttack.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwLkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:08:11.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerAnimator.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Player\\PlayerAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimator.cs",
               "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Player\\PlayerAnimator.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:08:06.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "EnemyManager.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\EnemyManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyManager.cs",
               "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\EnemyManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyManager.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAlwEsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:07:17.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "EnemyProjectile.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\EnemyProjectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyProjectile.cs",
               "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\EnemyProjectile.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyProjectile.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:06:21.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PatrolOnlyEnemy.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\PatrolOnlyEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\PatrolOnlyEnemy.cs",
               "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\PatrolOnlyEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\PatrolOnlyEnemy.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAtwJcAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:04:10.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "EnemyBase.cs",
               "DocumentMoniker": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\EnemyBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyBase.cs",
               "ToolTip": "D:\\unity\\Project\\Border-Assault\\Assets\\Scripts\\Enemy\\EnemyBase.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyBase.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:02:52.184Z",
               "EditorCaption": ""

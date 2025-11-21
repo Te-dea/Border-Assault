@@ -10,7 +10,8 @@ public enum EnemyBehaviorType
     StationaryRanged  // 静止远程攻击
 }
 
-public abstract class EnemyBase : MonoBehaviour, IDamageable
+// 敌人基类，实现IDamageable接口并封装通用逻辑
+public abstract class EnemyBase : MonoBehaviour,IDamageable
 {
     [Header("基础属性")]
     public int health = 30;
@@ -36,7 +37,7 @@ public abstract class EnemyBase : MonoBehaviour, IDamageable
     protected Transform player;
     protected Rigidbody2D rb;
     protected SpriteRenderer spriteRenderer;
-    protected bool isDead;
+    public bool isDead;  // 修改：从protected改为public，让EnemyManager可访问
     protected bool isHit;
     protected Vector3 initialScale;
     protected bool isPlayerInRange;         // 玩家是否在检测范围内
@@ -89,7 +90,7 @@ public abstract class EnemyBase : MonoBehaviour, IDamageable
     // 执行行为（由子类实现具体逻辑）
     protected abstract void ExecuteBehavior();
 
-    // 受伤处理
+    // 受伤处理（实现IDamageable接口）
     public virtual void TakeDamage(int damage)
     {
         if (isDead) return;
